@@ -1,0 +1,13 @@
+# Ignorar modelos pesados
+*.keras
+*.h5
+modelo_VGGNet16F/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+
+# Entorno virtual
+venv/
+.env
