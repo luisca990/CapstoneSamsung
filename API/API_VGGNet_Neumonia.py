@@ -9,7 +9,7 @@ app = FastAPI()
 
 # Rutas modelos preentrenados
 MODEL_PATH_VGG = "modelo_VGGNet16F"
-MODEL_PATH_RESNET = "modelo_ResNet50F"
+MODEL_PATH_RESNET = "modelo_ResNet50F_2"
 
 # Rutas modelos CNN desde cero
 MODEL_PATH_CNN1 = "modelo_CNNF"
