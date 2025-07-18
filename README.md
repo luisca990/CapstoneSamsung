@@ -42,4 +42,4 @@ Reducción de overfitting mediante regularización y aumento de datos
 
 Evaluación en cohortes más diversas
 
-Desarrollo de una interfaz para uso clínico
+Desarrollo de una interfaz para uso clínico (API)
