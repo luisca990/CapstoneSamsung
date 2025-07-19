@@ -117,7 +117,7 @@ A continuación se listan los autores y sus respectivos roles en el desarrollo d
 | Nombre                         | Rol                      | Contacto / GitHub                                   |
 |--------------------------------|---------------------------|-----------------------------------------------------|
 | 🧑‍💻 Luis Carlos Romero Cardenas|  Especialista en Modelado y Arquitectura de Redes Neuronales | ✉️ luisca990@gmail.com<br>🔗 [@luisca990](https://github.com/luisca990) |
-| 👩‍🔬 María Camila Plazas Gómez      | Líder de Proyecto y Responsable de Documentación Técnica | ✉️ luis.romero@ejemplo.com<br>🔗 [@usuariogit](https://github.com/usuariogit) |
+| 👩‍🔬 María Camila Plazas Gómez      | Líder de Proyecto y Responsable de Documentación Técnica | ✉️ kmi.pg18@gmail.com<br>🔗 [@MariaCamilaPlazasG](https://github.com/MariaCamilaPlazasG) |
 | 👨‍🎓 Nicoll Alejandra Arrieta Gómez      | Analista de Datos y Preprocesamiento          | ✉️ alejagomez072006@gmail.com<br>🔗 [unu0987654](https://github.com/unu0987654) |
 | 👩‍💻 Efraín Santiago Mayorga Chaves  | Responsable de Evaluación de Desempeño y Validación Clínica     | ✉️ daniela.r@ejemplo.com<br>🔗 [@danielar](https://github.com/danielar) |
 
