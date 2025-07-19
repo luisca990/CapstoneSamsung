@@ -122,4 +122,4 @@ A continuación se listan los autores y sus respectivos roles en el desarrollo d
 | 👩‍💻 Efraín Santiago Mayorga Chaves  | Responsable de Evaluación de Desempeño y Validación Clínica     | ✉️ daniela.r@ejemplo.com<br>🔗 [@danielar](https://github.com/danielar) |
 
 ## 👨‍💻 Anexos
-Link del video:<br>🔗 [Video Final](https://github.com/luisca990) |
+Link del video:<br>🔗 [Video Final] (https://youtu.be/-v-f2ah-3zg?si=KW-dD6bLu2mLs8IT) |
