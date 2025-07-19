@@ -13,7 +13,25 @@ A continuación, se ilustran los elementos que componen la estructura del reposi
 
 ### 📁 Estructura General del Repositorio
 
-![Estructura 1](./imgs/estructura_general.png)
+```plaintext
+.
+├── .ipynb_checkpoints/          → Checkpoints del notebook principal
+├── API/                         → Contiene la API y modelos exportados
+│   ├── modelo_CNN2F/            → Modelo profundo personalizado exportado
+│   ├── modelo_CNNF/             → Modelo CNN personalizado exportado
+│   ├── modelo_ResNet50F/        → Modelo preentrenado ResNet50 exportado
+│   ├── API_VGGNet_Neumonia.py   → API para servir los modelos
+│   └── requirements.txt         → Dependencias específicas para la API
+├── Datos/chest_xray/           → Radiografías utilizadas para entrenamiento y validación
+│   ├── tren/                    → Carpeta de entrenamiento
+│   ├── Val/                     → Carpeta de validación
+│   ├── prueba/                  → Carpeta de testeo final
+├── AIRE_LCAS.ipynb             → Notebook principal del proyecto
+├── LICENCIA                    → Licencia de uso
+├── README.md                   → Este archivo
+├── modelo_VGGNet16F.h5         → Modelo preentrenado VGG16 (h5)
+├── modelo_ResNet50F.h5         → Modelo preentrenado ResNet50 (h5)
+└── requirements.txt            → Requisitos para instalar dependencias generales
 
 ### 🧪 Contenido del Folder `models`
 
