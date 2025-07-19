@@ -120,3 +120,6 @@ A continuación se listan los autores y sus respectivos roles en el desarrollo d
 | 👩‍🔬 María Camila Plazas Gómez      | Líder de Proyecto y Responsable de Documentación Técnica | ✉️ luis.romero@ejemplo.com<br>🔗 [@usuariogit](https://github.com/usuariogit) |
 | 👨‍🎓 Nicoll Alejandra Arrieta Gómez      | Analista de Datos y Preprocesamiento          | ✉️ carlos.m@ejemplo.com<br>🔗 [@carlosm](https://github.com/carlosm) |
 | 👩‍💻 Efraín Santiago Mayorga Chaves  | Responsable de Evaluación de Desempeño y Validación Clínica     | ✉️ daniela.r@ejemplo.com<br>🔗 [@danielar](https://github.com/danielar) |
+
+## 👨‍💻 Anexos
+Link del video:<br>🔗 [Video Final](https://github.com/luisca990) |
