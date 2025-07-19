@@ -119,8 +119,8 @@ A continuación se listan los autores y sus respectivos roles en el desarrollo d
 | 🧑‍💻 Luis Carlos Romero Cardenas|  Especialista en Modelado y Arquitectura de Redes Neuronales | ✉️ luisca990@gmail.com<br>🔗 [@luisca990](https://github.com/luisca990) |
 | 👩‍🔬 María Camila Plazas Gómez      | Líder de Proyecto y Responsable de Documentación Técnica | ✉️ kmi.pg18@gmail.com<br>🔗 [@MariaCamilaPlazasG](https://github.com/MariaCamilaPlazasG) |
 | 👨‍🎓 Nicoll Alejandra Arrieta Gómez      | Analista de Datos y Preprocesamiento          | ✉️ alejagomez072006@gmail.com<br>🔗 [unu0987654](https://github.com/unu0987654) |
-| 👩‍💻 Efraín Santiago Mayorga Chaves  | Responsable de Evaluación de Desempeño y Validación Clínica     | ✉️ santiago.mayorga@outlook.com<br>
-(https://github.com/santiagoma14) |
+| 👩‍💻 Efraín Santiago Mayorga Chaves  | Responsable de Evaluación de Desempeño y Validación Clínica     | ✉️ santiago.mayorga@outlook.com<br>   
+|  (https://github.com/santiagoma14) | 
 
 ## 👨‍💻 Anexos
 Link del video:<br>🔗 [Video Final] (https://youtu.be/-v-f2ah-3zg?si=KW-dD6bLu2mLs8IT) |
