@@ -32,6 +32,7 @@ A continuación, se ilustran los elementos que componen la estructura del reposi
 ├── modelo_VGGNet16F.h5         → Modelo preentrenado VGG16 (h5)
 ├── modelo_ResNet50F.h5         → Modelo preentrenado ResNet50 (h5)
 └── requirements.txt            → Requisitos para instalar dependencias generales
+```
 
 ### 🧪 Contenido del Folder `models`
 
