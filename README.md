@@ -120,7 +120,7 @@ A continuación se listan los autores y sus respectivos roles en el desarrollo d
 | 👩‍🔬 María Camila Plazas Gómez      | Líder de Proyecto y Responsable de Documentación Técnica | ✉️ kmi.pg18@gmail.com<br>🔗 [@MariaCamilaPlazasG](https://github.com/MariaCamilaPlazasG) |
 | 👨‍🎓 Nicoll Alejandra Arrieta Gómez      | Analista de Datos y Preprocesamiento          | ✉️ alejagomez072006@gmail.com<br>🔗 [unu0987654](https://github.com/unu0987654) |
 | 👩‍💻 Efraín Santiago Mayorga Chaves  | Responsable de Evaluación de Desempeño y Validación Clínica     | ✉️ santiago.mayorga@outlook.com<br>🔗 [@santiagoma14]   
-(https://github.com/santiagoma14) | 
+(https://github.com/unu0987654) | 
 
 
 ## 👨‍💻 Anexos
