@@ -1,45 +1,104 @@
-Este proyecto implementa y compara múltiples modelos de redes neuronales convolucionales (CNN) para la clasificación automática de radiografías de tórax en pacientes pediátricos, identificando la presencia o ausencia de neumonía. Se utilizan arquitecturas preentrenadas (ResNet50, VGG16, DenseNet) y modelos personalizados, evaluando su precisión, capacidad de generalización y sensibilidad clínica.
 
-Dataset
-Se utilizó un conjunto de datos disponible en Kaggle, compuesto por 5856 radiografías divididas en imágenes normales y con neumonía (viral o bacteriana), organizadas en carpetas de entrenamiento, prueba y validación.
+# 🧠 Clasificación de Neumonía en Radiografías de Tórax Pediátricas
 
-Modelos Evaluados
-ResNet50
-Precisión: 86.06 %
-Recall (PNEUMONIA): 1.00
-F1-score: 0.94
+Este proyecto implementa y compara múltiples modelos de redes neuronales convolucionales (CNN) para la **clasificación automática de radiografías de tórax en pacientes pediátricos**, identificando la presencia o ausencia de neumonía.
 
-VGG16 (congelado)
-Precisión: 99 %
-Validación: 100 % (overfitting)
+Se utilizan arquitecturas preentrenadas (`ResNet50`, `VGG16`, `DenseNet`) y modelos personalizados, evaluando su **precisión**, **capacidad de generalización** y **sensibilidad clínica**.
 
-DenseNet (congelado)
-Precisión: 62.5 %
-Alta pérdida, pobre generalización
+---
 
-ResNet50 con data augmentation (congelado)
-Precisión test: 38 %
+## 🗂️ Estructura del Proyecto
 
-CNN Personalizado
-Precisión test: 87 %
-Recall: 92.8 %
-AUC: 0.85
+A continuación, se ilustran los elementos que componen la estructura del repositorio:
 
-CNN Profundo Personalizado
-Precisión test: 90 %
-AUC: 0.85
-F1-score: 0.87 (NORMAL), 0.92 (PNEUMONIA)
+### 📁 Estructura General del Repositorio
 
-Logros
-Identificación precisa de neumonía con modelos personalizados
+![Estructura 1](./imgs/estructura_general.png)
 
-Alto recall clínicamente relevante
+### 🧪 Contenido del Folder `models`
 
-Comparativa entre modelos preentrenados y entrenados desde cero
+![Estructura 2](./imgs/estructura_models.png)
 
-Mejoras Futuras
-Reducción de overfitting mediante regularización y aumento de datos
+### 📊 Flujo del Modelo
 
-Evaluación en cohortes más diversas
+![Flujo de datos](./imgs/flujo_modelo.png)
 
-Desarrollo de una interfaz para uso clínico (API)
+---
+
+## 1. 📚 Conjunto de Datos
+
+- Fuente: [Kaggle - Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- Composición:
+  - **Total de imágenes**: 5856 radiografías
+  - **Clases**:
+    - Normal
+    - Neumonía (viral o bacteriana)
+  - **Distribución**:
+    - Entrenamiento
+    - Validación
+    - Prueba
+
+---
+
+## 2. 🧪 Modelos Evaluados
+
+### 🔹 ResNet50
+- Precisión: **86.06 %**
+- Recall (NEUMONÍA): **1.00**
+- F1 Score: **0.94**
+
+### 🔹 VGG16 (congelado)
+- Precisión: **99 %**
+- Validación: **100 %** (⚠️ *sobreajuste detectado*)
+
+### 🔹 DenseNet (congelado)
+- Precisión: **62.5 %**
+- Alta pérdida, pobre generalización
+
+### 🔹 ResNet50 con Data Augmentation (congelado)
+- Precisión de prueba: **38 %**
+
+### 🔹 CNN Personalizado
+- Precisión de prueba: **87 %**
+- Recall: **92.8 %**
+- AUC: **0.85**
+
+### 🔹 CNN Profundo Personalizado
+- Precisión de prueba: **90 %**
+- AUC: **0.85**
+- F1 Score:
+  - NORMAL: **0.87**
+  - NEUMONÍA: **0.92**
+
+---
+
+## 3. 🏆 Logros
+
+- ✅ Identificación precisa de neumonía con modelos personalizados
+- ✅ Alto *recall* clínicamente relevante
+- ✅ Comparativa entre modelos preentrenados y entrenados desde cero
+
+---
+
+## 4. 🚀 Mejoras Futuras
+
+- 🔧 Reducción de *overfitting* mediante:
+  - Regularización
+  - Aumento de datos
+- 🧬 Evaluación en cohortes más diversas
+- 🖥️ Desarrollo de una interfaz para uso clínico (**API**)
+
+---
+
+## 🏗️ Comparación de Arquitecturas
+
+- Las **arquitecturas preentrenadas** (`ResNet50`, `VGG16`, `DenseNet`) fueron evaluadas usando:
+  - `SparseCategoricalCrossentropy`
+- Los **modelos personalizados** se evaluaron con:
+  - Métricas para clasificación binaria (`AUC`, `F1`, `Recall`, etc.)
+
+---
+
+## 🖼️ Diagrama General del Modelo
+
+![Diagrama completo](./imgs/diagrama_modelo.png)
