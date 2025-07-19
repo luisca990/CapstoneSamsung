@@ -2,6 +2,8 @@
 *.keras
 *.h5
 modelo_VGGNet16F/
+modelo_ResNet50F/
+modelo_ResNet50F_2/
 
 # Archivos temporales
 __pycache__/
