@@ -116,7 +116,7 @@ A continuación se listan los autores y sus respectivos roles en el desarrollo d
 
 | Nombre                         | Rol                      | Contacto / GitHub                                   |
 |--------------------------------|---------------------------|-----------------------------------------------------|
-| 👩‍🔬 Luis Carlos Romero Cardenas|  Especialista en Modelado y Arquitectura de Redes Neuronales | ✉️ luisca990@gmail.com<br>🔗 [@luisca990](https://github.com/luisca990) |
-| 🧑‍💻 María Camila Plazas Gómez      | Líder de Proyecto y Responsable de Documentación Técnica | ✉️ luis.romero@ejemplo.com<br>🔗 [@usuariogit](https://github.com/usuariogit) |
+| 🧑‍💻 Luis Carlos Romero Cardenas|  Especialista en Modelado y Arquitectura de Redes Neuronales | ✉️ luisca990@gmail.com<br>🔗 [@luisca990](https://github.com/luisca990) |
+| 👩‍🔬 María Camila Plazas Gómez      | Líder de Proyecto y Responsable de Documentación Técnica | ✉️ luis.romero@ejemplo.com<br>🔗 [@usuariogit](https://github.com/usuariogit) |
 | 👨‍🎓 Carlos Méndez      | Investigador de IA          | ✉️ carlos.m@ejemplo.com<br>🔗 [@carlosm](https://github.com/carlosm) |
 | 👩‍💻 Daniela Rodríguez  | Ingeniería y validación     | ✉️ daniela.r@ejemplo.com<br>🔗 [@danielar](https://github.com/danielar) |
