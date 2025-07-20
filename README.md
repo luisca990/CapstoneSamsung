@@ -20,7 +20,7 @@ A continuación, se ilustran los elementos que componen la estructura del reposi
 │   ├── modelo_CNN2F/            → Modelo profundo personalizado exportado
 │   ├── modelo_CNNF/             → Modelo CNN personalizado exportado
 │   ├── modelo_ResNet50F/        → Modelo preentrenado ResNet50 exportado
-│   ├── API_VGGNet_Neumonia.py   → API para servir los modelos
+│   ├── API_VGGNet_Neumonia.py   → API para servir los modelos → Comando para iniciar el servidor web: uvicorn API_VGGNet_Neumonia:app
 │   └── requirements.txt         → Dependencias específicas para la API
 ├── Datos/chest_xray/           → Radiografías utilizadas para entrenamiento y validación
 │   ├── tren/                    → Carpeta de entrenamiento
